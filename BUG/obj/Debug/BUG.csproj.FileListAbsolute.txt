@@ -1,0 +1,17 @@
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\bin\Debug\BUG.exe.config
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\bin\Debug\BUG.exe
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\bin\Debug\BUG.pdb
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.csproj.AssemblyReference.cache
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.LoginForm.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.Priority_form.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.Properties.Resources.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.csproj.GenerateResource.cache
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.csproj.CoreCompileInputs.cache
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.exe
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.pdb
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.BugInfo.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.EmployeeForm.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.ProjectForm.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.DashBoard.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.Status.resources
+C:\Users\VCSDEV0277\source\repos\BUG\BUG\obj\Debug\BUG.MDIParent1.resources

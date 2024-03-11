@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|c:\\users\\vcsdev0277\\source\\repos\\bug\\bug\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\priority form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\priority form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\buginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\buginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\buginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\buginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\projectform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\priority form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\priority form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\myconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\myconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\mdiparent1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\bug\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00E24537-9AA6-42DE-BAC3-97AE9C71EC58}|BUG\\BUG.csproj|solutionrelative:bug\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MDIParent1.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "BUG\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MDIParent1.cs",
+              "RelativeToolTip": "BUG\\MDIParent1.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAqwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:23:55.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Priority form.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Priority form.cs",
+              "RelativeDocumentMoniker": "BUG\\Priority form.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Priority form.cs",
+              "RelativeToolTip": "BUG\\Priority form.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAgwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:28:00.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "BUG\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.Designer.cs",
+              "RelativeToolTip": "BUG\\Form1.Designer.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T04:40:13.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.cs",
+              "RelativeDocumentMoniker": "BUG\\Form1.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.cs",
+              "RelativeToolTip": "BUG\\Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:07:07.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "BUG\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\EmployeeForm.cs",
+              "RelativeToolTip": "BUG\\EmployeeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:25:41.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Status.cs",
+              "RelativeDocumentMoniker": "BUG\\Status.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Status.cs",
+              "RelativeToolTip": "BUG\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:13:43.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BugInfo.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\BugInfo.cs",
+              "RelativeDocumentMoniker": "BUG\\BugInfo.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\BugInfo.cs",
+              "RelativeToolTip": "BUG\\BugInfo.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAiwAwBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:27:29.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BugInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\BugInfo.cs",
+              "RelativeDocumentMoniker": "BUG\\BugInfo.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\BugInfo.cs [Design]",
+              "RelativeToolTip": "BUG\\BugInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:31:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectForm.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\ProjectForm.cs",
+              "RelativeDocumentMoniker": "BUG\\ProjectForm.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\ProjectForm.cs",
+              "RelativeToolTip": "BUG\\ProjectForm.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwGsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:52:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "BUG\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "BUG\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:15:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProjectForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\ProjectForm.cs",
+              "RelativeDocumentMoniker": "BUG\\ProjectForm.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\ProjectForm.cs [Design]",
+              "RelativeToolTip": "BUG\\ProjectForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T04:37:02.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Status.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Status.cs",
+              "RelativeDocumentMoniker": "BUG\\Status.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Status.cs [Design]",
+              "RelativeToolTip": "BUG\\Status.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T12:05:24.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Priority form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Priority form.cs",
+              "RelativeDocumentMoniker": "BUG\\Priority form.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Priority form.cs [Design]",
+              "RelativeToolTip": "BUG\\Priority form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T08:16:52.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\DashBoard.cs",
+              "RelativeDocumentMoniker": "BUG\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\DashBoard.cs",
+              "RelativeToolTip": "BUG\\DashBoard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T10:22:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.cs",
+              "RelativeDocumentMoniker": "BUG\\Form1.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\Form1.cs [Design]",
+              "RelativeToolTip": "BUG\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T06:21:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MyConnection.cs",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MyConnection.cs",
+              "RelativeDocumentMoniker": "BUG\\MyConnection.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MyConnection.cs",
+              "RelativeToolTip": "BUG\\MyConnection.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T09:56:15.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MDIParent1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MDIParent1.cs",
+              "RelativeDocumentMoniker": "BUG\\MDIParent1.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\MDIParent1.cs [Design]",
+              "RelativeToolTip": "BUG\\MDIParent1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T06:22:11.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\DashBoard.cs",
+              "RelativeDocumentMoniker": "BUG\\DashBoard.cs",
+              "ToolTip": "C:\\Users\\VCSDEV0277\\source\\repos\\BUG\\BUG\\DashBoard.cs [Design]",
+              "RelativeToolTip": "BUG\\DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T08:14:02.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
